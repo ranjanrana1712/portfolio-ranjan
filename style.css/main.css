@@ -1,0 +1,81 @@
+/* google fonts */
+
+/* variable css  */
+:root {
+
+
+  /* color */
+
+
+  /* hsl color mode */
+
+
+  /* fonts and typography */
+
+
+  /* .5rem = 8px, 1rem = 16px, 1.5rem = 24px ...  */
+
+
+  /* font-weight */
+
+  /* Margenes bottom */
+
+
+  /* z index */
+
+}
+
+/* font size for larger devices */
+@media screen and (min-width: 968px) {
+  :root {
+  }
+}
+
+/* Variable dark theme */
+
+/* Button Dark/Light theme */
+
+/* base */
+
+/* REUSABLE CSS CLASSES */
+
+/* LAYOUT   */
+
+/* NAV  */
+
+/*==================== HOME ====================*/
+
+/*==================== BUTTONS ====================*/
+
+/*==================== ABOUT ====================*/
+
+/*==================== SKILLS ====================*/
+
+/*==================== QUALIFICATION ====================*/
+
+/*==================== SERVICES ====================*/
+
+/* Active Modal */
+
+/*==================== PORTFOLIO ====================*/
+
+/*==================== PROJECT IN MIND ====================*/
+
+/*==================== TESTIMONIAL ====================*/
+
+/*==================== CONTACT ME ====================*/
+
+/*==================== FOOTER ====================*/
+
+/*========== SCROLL UP ==========*/
+
+/* Show scroll */
+
+/*========== SCROLL BAR ==========*/
+
+/*==================== MEDIA QUERIES ====================*/
+/* For small devices */
+
+/* For medium devices */
+
+/* For large devices */
