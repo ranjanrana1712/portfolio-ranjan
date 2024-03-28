@@ -159,6 +159,24 @@ header{
     align-items: center;
 }
 
+.nav_logo,
+.nav__toggles{
+    color: var( --title--color);
+    font-weight: var(--font-medium);
+
+
+}
+
+.nav_logo:hover{
+    color: var(--first--color);
+}
+
+.nav__toggles{
+    font-size: 1.1rem;
+    cursor: pointer;
+
+}
+
 
 /*==================== HOME ====================*/
 
